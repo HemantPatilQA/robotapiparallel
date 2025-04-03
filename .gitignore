@@ -4,3 +4,4 @@
 Results/
 .idea/
 .pabotsuitenames
+libraries/__pycache__/
